@@ -37,5 +37,6 @@ import java.util.*;
             System.out.println("The number was "+x);
         }
         System.out.println("Your Score is :"+score);
+        in.close();
     }    
 }
